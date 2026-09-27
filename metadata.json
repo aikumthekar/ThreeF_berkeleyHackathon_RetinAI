@@ -1,0 +1,7 @@
+{
+  "name": "RetinaScan AI - Deep Learning Ophthalmology Diagnostic Suite",
+  "description": "Multi-category retinal scan classifier powered by deep neural networks (ResNet-50, EfficientNet-B4, and Retinal Vision AI) with calibrated confidence scores for Healthy, Diabetic Retinopathy, Glaucoma, Cataract, AMD, and CNV.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
